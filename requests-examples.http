@@ -71,13 +71,13 @@ Content-Type: application/json
   "positions": [
     {
       "product": 2,
-      "quantity": 100,
+      "quantity": 200,
       "price": 130.80
     },
     {
       "product": 3,
-      "quantity": 243,
-      "price": 145
+      "quantity": 343,
+      "price": 147
     }
   ]
 }
